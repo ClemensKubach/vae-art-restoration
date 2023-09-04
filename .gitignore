@@ -1,0 +1,15 @@
+venv
+.vscode
+.idea
+__pycache__
+
+wandb
+checkpoints
+*.egg-info
+datafiles
+
+logs
+saved-models
+SIAR.zip
+SIAR/.DS_Store
+**.DS_Store
